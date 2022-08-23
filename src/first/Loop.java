@@ -1,6 +1,8 @@
-public xlAA Loop{
-public static void String(String[] args){
-  doe(inr i = 0; i < 5; i++){
+package first;
+
+public class Loop{
+public static void main(String[] args){
+  for(int i = 0; i < 5; i++){
   }
 }
 }
